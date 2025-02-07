@@ -1,0 +1,17 @@
+{
+  "name": "playwright-bs-local",
+  "version": "1.0.0",
+  "description": "",
+  "main": "runWindowsRemoteChromw.js",
+  "scripts": {
+    "test": "node pw-test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browserstack": "^1.6.1",
+    "browserstack-local": "^1.5.5",
+    "browserstack-node-sdk": "^1.34.34",
+    "playwright": "^1.49.1"
+  }
+}

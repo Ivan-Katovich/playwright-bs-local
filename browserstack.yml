@@ -1,0 +1,11 @@
+userName: ivankotovich_pXAs52
+accessKey: awuYpJYgDcpfc2PuQ7Rq
+framework: playwright
+platforms:
+  - os: Windows
+    osVersion: 10
+    browserName: chrome
+    browserVersion: latest
+buildName: bstack-demo
+buildIdentifier: bs-pw-demo
+projectName: BrowserStack Sample
